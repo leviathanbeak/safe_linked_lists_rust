@@ -1,0 +1,7 @@
+[package]
+name = "linky_lists"
+version = "0.1.0"
+authors = ["leviathanbeak88 <elvisdedic@outlook.com>"]
+edition = "2018"
+
+[dependencies]
